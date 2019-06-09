@@ -3,7 +3,7 @@
 //  Outlet
 //
 //  Created by uba on 2019-06-08.
-//  Copyright © 2019 Outlet. All rights reserved.
+//  Copyright ©2019 Outlet. All rights reserved.
 //
 
 import UIKit
